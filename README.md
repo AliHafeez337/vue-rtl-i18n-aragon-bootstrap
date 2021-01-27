@@ -1,4 +1,4 @@
-﻿# Brisk
+﻿# Vue - i18n - rtl - aragon - bootstrap
 
 <!--- just - [**Live demo**](https://board-ac1a6.web.app/) --->
 
@@ -19,5 +19,6 @@ npm run serve
 
 ### Project credits
 
-This project is developed by AliHafeez337 for XAPPRIKA.
+This project is developed by AliHafeez337.
+
 # vue-rtl-i18n-aragon-bootstrap
